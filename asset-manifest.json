@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProductReactApp-Snipcart/static/css/main.4f26f496.chunk.css",
+    "main.js": "/ProductReactApp-Snipcart/static/js/main.f361c4ec.chunk.js",
+    "main.js.map": "/ProductReactApp-Snipcart/static/js/main.f361c4ec.chunk.js.map",
+    "runtime-main.js": "/ProductReactApp-Snipcart/static/js/runtime-main.65131446.js",
+    "runtime-main.js.map": "/ProductReactApp-Snipcart/static/js/runtime-main.65131446.js.map",
+    "static/js/2.03b837ca.chunk.js": "/ProductReactApp-Snipcart/static/js/2.03b837ca.chunk.js",
+    "static/js/2.03b837ca.chunk.js.map": "/ProductReactApp-Snipcart/static/js/2.03b837ca.chunk.js.map",
+    "index.html": "/ProductReactApp-Snipcart/index.html",
+    "precache-manifest.37bd7f6cfb2f971eb2d3b8d7a6a51ca3.js": "/ProductReactApp-Snipcart/precache-manifest.37bd7f6cfb2f971eb2d3b8d7a6a51ca3.js",
+    "service-worker.js": "/ProductReactApp-Snipcart/service-worker.js",
+    "static/css/main.4f26f496.chunk.css.map": "/ProductReactApp-Snipcart/static/css/main.4f26f496.chunk.css.map",
+    "static/js/2.03b837ca.chunk.js.LICENSE": "/ProductReactApp-Snipcart/static/js/2.03b837ca.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65131446.js",
+    "static/js/2.03b837ca.chunk.js",
+    "static/css/main.4f26f496.chunk.css",
+    "static/js/main.f361c4ec.chunk.js"
+  ]
+}
